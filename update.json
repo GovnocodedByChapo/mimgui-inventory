@@ -1,5 +1,5 @@
 {
-  "last":"2",
-  "url":"https://cdn.discordapp.com/attachments/952527209917202452/952907010909810689/mImGui_Inventory_by_chapo.lua",
-  "changelog":"- добавлено обновление\n- для открытия настроек можно использовать команду /miminv"
+  "last":"2.1",
+  "url":"https://cdn.discordapp.com/attachments/952527209917202452/952909933144326194/mImGui_Inventory_by_chapo.lua",
+  "changelog":"- для открытия настроек можно использовать команду /miminv\n- добавлена возможность убрать кнопку настроек из инвентаря\n- изменены резмеры некоторых отступов в интерфейсе"
 }
